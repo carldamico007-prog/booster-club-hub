@@ -1,0 +1,22 @@
+{
+  "short_name": "Booster Hub",
+  "name": "Booster Club Hub",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "48x48 72x72 96x96 128x128 192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e40af",
+  "background_color": "#f3f4f6"
+}
